@@ -1,7 +1,9 @@
 [package]
 name = "sls"
+description = "Stochastic L-systems"
 version = "0.0.0"
 authors = ["Martijn Gribnau <garm@ilumeo.com>"]
+license = "Apache-2.0"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
